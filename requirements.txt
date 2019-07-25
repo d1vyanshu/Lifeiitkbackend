@@ -14,3 +14,4 @@ standalone
 pyyaml
 django-extensions
 datetime
+django-background-tasks
